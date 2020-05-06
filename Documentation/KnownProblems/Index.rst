@@ -1,12 +1,11 @@
-﻿.. include:: ../Includes.txt
+.. include:: ../Includes.txt
 
 
 .. _known-problems:
 
+==============
 Known Problems
 ==============
 
-There is an issue with the modeler if gridelements is installed.
-
-Please report bugs in github:
-`ExtensionBuilder Github <https://github.com/FriendsOfTYPO3/extension_builder/issues>`_
+Use this section for informing about any type of of problem
+that are not necessarily named in the bug tracker such as performance issues, ...
